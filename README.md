@@ -1,0 +1,1 @@
+Deploying a Flask-based computer vision web application in Heroku. A pre-trained CNN-based digit recognition model was used which was loaded using OpenCV and inference by simply receiving an image which was drawn on the canvas on the HTML page.
